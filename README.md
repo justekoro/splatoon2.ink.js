@@ -1,0 +1,1 @@
+# splatoon2.ink.js
