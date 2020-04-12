@@ -1,0 +1,36 @@
+{
+  "name": "splatoon2.ink.js",
+  "version": "1.0.0",
+  "description": "A small package to get splatoon 2 modes. Works in french and in english.",
+  "main": "sp2.index.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korobot/splatoon2.ink.js.git"
+  },
+  "keywords": [
+    "splatoon",
+    "splatoon2",
+    "nintendo",
+    "javascript",
+    "node",
+    "api",
+    "ink",
+    "game",
+    "video",
+    "game",
+    "video"
+  ],
+  "author": "misterkoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korobot/splatoon2.ink.js/issues"
+  },
+  "homepage": "https://github.com/korobot/splatoon2.ink.js#readme"
+}
